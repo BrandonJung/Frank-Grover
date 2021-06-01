@@ -1,0 +1,29 @@
+state 0
+false Gee whiz I sure can't wait to see the world famous blue whale skeleton at Beaty Museum today!
+false ...
+false Wait a second... IT'S GONE!!!
+false I wonder what happened...
+true Grover! It's good to see you!
+false Huh? Who's there?
+true It's me, the Beaty Museum!
+false Oh, hi!
+false (I guess it's not so surprising that a museum can talk, considering I can too)
+true You showed up just in time. My blue whale skeleton has been STOLEN by the evil dog Frank! The bones have been scattered around campus... You have to help return them to their rightful place!
+false I'm on it!
+true Use your dog senses to TRACK DOWN these bones and avoid the wiles of Frank! He will steal your bones if he gets the chance, so stay away if you can!
+false Wait, which senses?
+true If your tail starts wagging, that means there is something nearby to investigate. Say... isn't that the blue whale skull right over there?
+true You can walk towards it by using the arrow keys. Once you are standing over it, press 'E' to pick it up! Then come back to talk to me.
+end
+state 1
+true Try picking up the skull! You can walk towards it by using the arrow keys. Once you are standing over it, press 'E' to pick it up! Then come back to talk to me.
+end
+state 2
+false I got it!
+true Great work, Grover. Remember that when your tail starts wagging near an object, press "E" to interact with it.
+true Now sniff out the rest of those bones! Quick! Before it's too late!
+end
+state 3
+false I got a little distracted chasing seagulls... What was I supposed to do again?
+true Explore campus by using the arrow keys, and find all the bones. Remember, when your tail starts wagging near an object, press "E" to interact with it.
+end

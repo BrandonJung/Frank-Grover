@@ -1,0 +1,17 @@
+state 0
+false Hey there, Squirrel, I'm looking for whale bones to return to the Beaty museum. Have you seen any?
+true Aw nuts, my cousin living down in the forest had his whole house destroyed by a flipper. Really devastating for the family. Just awful. The insurance is a nightmare...
+true Say, why don't you head over there and try and get it out of his tree?
+false But I am only a medium-sized dog! How will I reach it?
+end
+state 1
+end
+state 2
+true Take this ball. Aim it at the tree, and then throw it with 'B' to knock the flipper out.
+true Keep the ball... you never know when it might come in handy.
+false Gee, thanks, Squirrel!
+true It was nuttin... I mean, it was nothing...
+end
+state 3
+true I hope you found that flipper. Too bad for my cousin though :(
+end

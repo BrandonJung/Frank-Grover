@@ -1,0 +1,19 @@
+state 0
+false Hi there, campus unicyclist! I am Grover and I am on a mission to find the missing bones of the blue whale skeleton.
+true You seek the great sea behemoth? Hmm... Fortune tells of a mysterious force that hath plundered mine beloved talisman... Returneth it to me and I shall bestow upon you a precious bone.
+false ...
+true Please just find my lucky socks for me I have a midterm later :(
+false Oh goody! I will use my dog senses to sniff them out.
+true However! Beware of the effects those socks may have on a mere mortal like you! Beware...!
+end
+state 1
+true Try and pick the socks by pressing 'E'! Then come back to collect the bone.
+end 
+state 2
+true My mom is gonna kill me- oh, Grover, you hath returned!
+false Here you go! I found them. 
+true Ah ha! Mine talisman! Thank ye! And in return, I bequeath to you this enchanted scapula... use it wisely, worthy canine!
+end
+state 3
+true Thanks for finding my socks, Grover!
+end

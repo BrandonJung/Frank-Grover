@@ -1,0 +1,19 @@
+state 0
+true Yes, Dorine, I just got off the phone with the insurance company. What a bunch of-
+true Oh great, a dog. Let me guess, you're here to chase me out of my recently demolished home?
+false Actually, I am here to retrieve the whale bone. Now hold on tight while I launch this ball at the tree...
+true WHAT-
+end
+state 1
+true Let me get this straight. You're going to THROW a ball at the tree to dislodge the bone?
+false Yep!
+true Dogs, I tell ya...
+end
+state 2
+false It worked!
+true Whoop-de-do.
+end
+state 3
+true Darn that flipper for wrecking my home...
+false I'm sorry that you lost your home. I've heard the insurance company is real kind. I wish you luck!
+end

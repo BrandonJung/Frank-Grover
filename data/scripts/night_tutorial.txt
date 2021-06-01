@@ -1,0 +1,6 @@
+state 2
+true Uh oh... it looks like it's getting dark out.
+true Good thing you have dog bioluminescence! 
+true When you're having trouble seeing, press 'F' to activate your natural glow!
+true But be careful... Don't get Frank sneak up on you!
+end

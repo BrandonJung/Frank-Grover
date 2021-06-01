@@ -1,0 +1,20 @@
+#ifndef OBSERVER_PATTERN_OBSERVER_HPP
+#define OBSERVER_PATTERN_OBSERVER_HPP
+
+enum Event
+{
+	BONE_COUNT_INCREASE,
+	BONE_COUNT_DECREASE,
+	BALL_PICKED_UP,
+	BALL_DROPPED,
+	BALL_PICKED_UP_BY_PLAYER,
+	SOCKS_PICKED_UP
+};
+
+class Observer
+{
+public:
+	virtual void update(Event event) = 0;
+};
+
+#endif

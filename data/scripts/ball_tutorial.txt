@@ -1,0 +1,15 @@
+state 0
+true Frank loves playing with balls.
+true Press 'E' while standing over a ball to pick it up. Then, use your cursor to aim in the direction you are facing, and press 'B' to throw it.
+end
+state 1 
+true Press 'E' while standing over a ball to pick it up. Then, use your cursor to aim in the direction you are facing, and press 'B' to throw it.
+end
+state 2
+true Awesome. Now that you can throw a ball, it might come in handy if you need a distraction in the future!
+true If you throw the ball close enough to Frank, he will chase it and drop whatever he is holding when he picks it up.
+end
+state 3
+true Press 'E' while standing over a ball to pick it up. Then, use your cursor to aim in the direction you are facing, and press 'B' to throw it.
+true If you throw the ball close enough to Frank, he will chase it and drop whatever he is holding when he picks it up.
+end

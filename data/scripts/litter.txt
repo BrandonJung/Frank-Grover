@@ -1,0 +1,19 @@
+state 0
+true Ugh, people are so careless nowadays. Look at all that litter strewn around Beaty.
+false Hey, I am looking for bones of the blue whale skeleton. Have you come across any on the campus?
+true Ah, you say you are looking for bones? Well...
+true I was going to add this one to my biodiversity collection, but if you get rid of the litter, you can have it.
+false How will I drag the trash into the dumpster all by myself?
+true Oh Grover, I bet you are a smart dog. You can click the litter and drag it into the dumpster nearby.
+false Of course! I will be back when I have cleaned the campus.
+end
+state 1
+true Try standing close to the dumpster when you are dragging the litter into the dumpster.
+end
+state 2
+true Oh would you look at that! Thanks, Grover. Campus has never looked so clean... no bones about it! Here's a flipper for your troubles.
+false I am glad I could help. Thank you for the bone. Now I shall find the other ones!
+end
+state 3
+true Thanks again for your help, Grover!
+end

@@ -1,0 +1,5 @@
+state 2
+false Hey!! That's mine!
+true Uh oh, looks like Frank stole your bone! 
+true Don't worry, he'll drop it if you throw him something else to play with.
+end

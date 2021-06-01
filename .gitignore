@@ -1,0 +1,12 @@
+__temp
+__logs
+
+# Build
+__build
+build
+builddir
+out
+
+# Visual Studio
+.vs
+.vscode
